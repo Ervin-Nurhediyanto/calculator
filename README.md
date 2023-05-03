@@ -1,0 +1,1 @@
+<image width="200" src='./app/src/main/res/drawable/display_calculator.png' />
